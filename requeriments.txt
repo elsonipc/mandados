@@ -1,6 +1,7 @@
 streamlit
 panda
 fdpf
+FPDF
 datatime
 tempfile
 base64
