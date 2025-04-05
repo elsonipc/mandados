@@ -1,1 +1,10 @@
-import FPDF
+streamlit
+panda
+fdpf
+datatime
+tempfile
+base64
+hashlib
+PIL
+io
+os
