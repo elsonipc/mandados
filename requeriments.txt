@@ -9,3 +9,4 @@ hashlib
 PIL
 io
 os
+fpdf==1.7.2
